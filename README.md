@@ -1,6 +1,6 @@
 # Todo-App
 
-This project is a Todo web application written in TypeScript and React. Currently it has basic functionality such as creating, updating and deleting todo items.
+This project is a todo-list web application written in TypeScript and React. Currently it has basic functionality such as creating, updating and deleting todo items.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
